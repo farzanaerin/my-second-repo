@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(152, 227, 230);
+}
+h1{
+    color: rgb(71, 60, 16);
+}
+img{
+    border:10px solid rgb(181, 147, 214);
+    border-radius:  100%;
+    
+}
+p{
+    font-size: 20px;
+}
+h3{
+    color: rgb(71, 60, 16);
+}
